@@ -1,4 +1,5 @@
 //form
+//var projectFormEl = $("#project-form");
 // $(document).ready(function() {
 //     $("button").click(function() {
 //         var x = $("form").serializeArray();
