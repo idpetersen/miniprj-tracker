@@ -1,11 +1,4 @@
-//form
-//var projectFormEl = $("#project-form");
-// $(document).ready(function() {
-//     $("button").click(function() {
-//         var x = $("form").serializeArray();
-//         $.each(x, function(i, field) {
-//             $("#output").append(field.name + ":"
-//                     + field.value + " ");
-//         });
-//     });
-// });
+//Added event listener to Add project button
+$( "#button" ).on( "click", function() {
+    console.log( "hi" );
+  });
